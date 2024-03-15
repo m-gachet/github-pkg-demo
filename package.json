@@ -3,7 +3,7 @@
   "repository": {
       "url": "git://github.com/m-gachet/github-pkg-demo.git"
   },
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
